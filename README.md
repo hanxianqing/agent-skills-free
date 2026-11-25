@@ -16,11 +16,11 @@ Requirements: `ffmpeg` + `ffprobe`. No other dependencies.
 
 ### `shorts-growth-team-sampler.zip` — Shorts Growth Team, free sampler
 
-The hook library + anti-overlap checklist from the pack that runs a 3-shorts-a-day growth channel: 10 hook archetypes with real hooks and view counts, and the checklist that stops same-theme repeats. Full pack (5 sub-skills, audio card, render pitfalls, a verified case study): [Whop $27](https://whop.com/merry-printables-9752/shorts-growth-team) / [Agensi $12.99](https://www.agensi.io/skills/5-skills-that-run-a-3-shorts-a-day-growth-channel).
+The hook library + anti-overlap checklist from the pack that runs a 3-shorts-a-day growth channel: 10 hook archetypes with real hooks and view counts, and the checklist that stops same-theme repeats. Full pack (5 sub-skills, audio card, render pitfalls, a verified case study): [Whop $27](https://whop.com/merry-printables-9752/shorts-growth-team) / [Agensi $12.99](https://www.agensi.io/skills/5-skills-that-run-a-3-shorts-a-day-growth-channel) / [free Lite on Whop](https://whop.com/merry-printables-9752/products/shorts-growth-team-lite-free-sampler/).
 
 ### `geo-site-audit-sampler.zip` — GEO Site Audit, free sampler
 
-The 7-dimension scorecard + fix checklist from the pack that audits a small-business site for AI search visibility. Full pack (audit method, client report template, two real worked audits of live sites): [Whop $19](https://whop.com/merry-printables-9752/geo-site-audit-skill/) / [Agensi $9.99](https://www.agensi.io/skills/7-dimension-geo-site-audit-for-small-business-websites).
+The 7-dimension scorecard + fix checklist from the pack that audits a small-business site for AI search visibility. Full pack (audit method, client report template, two real worked audits of live sites): [Whop $19](https://whop.com/merry-printables-9752/geo-site-audit-skill/) / [Agensi $9.99](https://www.agensi.io/skills/7-dimension-geo-site-audit-for-small-business-websites) / [free Lite on Whop](https://whop.com/merry-printables-9752/products/geo-site-audit-lite-free-sampler/).
 
 ## The full pack — $12
 

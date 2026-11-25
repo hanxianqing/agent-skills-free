@@ -1,4 +1,5 @@
 # Agent Skills — Free Sample
+[![Listed in Awesome Agent Skills](https://sagargupta.online/awesome-skills/badge.svg)](https://github.com/Sagargupta16/awesome-skills)
 
 Three production-tested agent skills, free. These are samples from our skill packs — the playbooks we actually use to ship daily.
 

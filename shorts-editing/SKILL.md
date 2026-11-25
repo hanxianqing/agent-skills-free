@@ -1,3 +1,7 @@
+---
+name: shorts-editing
+description: Turn product images and a voiceover into a vertical Shorts video that does not look like a static slideshow, using ffmpeg.
+---
 # Skill 1 — Shorts Editing Skill
 
 Turn product images + a voiceover into a vertical Shorts video that
